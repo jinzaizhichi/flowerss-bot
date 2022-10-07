@@ -11,7 +11,6 @@ require (
 	github.com/indes/telegraph-go v1.0.1
 	github.com/jinzhu/gorm v1.9.16
 	github.com/magiconair/properties v1.8.6
-	github.com/mattn/go-sqlite3 v1.14.15 // indirect
 	github.com/spf13/cast v1.5.0
 	github.com/spf13/viper v1.13.0
 	github.com/stretchr/testify v1.8.0
@@ -21,7 +20,7 @@ require (
 	google.golang.org/protobuf v1.28.1
 	gopkg.in/telebot.v3 v3.0.0
 	gorm.io/driver/mysql v1.3.6
-	gorm.io/driver/sqlite v1.3.6
-	gorm.io/gorm v1.23.9
+	gorm.io/driver/sqlite v1.4.1
+	gorm.io/gorm v1.23.10
 	moul.io/zapgorm v1.1.5
 )
